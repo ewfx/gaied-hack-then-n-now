@@ -1,0 +1,3 @@
+1. ollama create -f C:\Users\smath\Downloads\Modelfile.txt Matheswaran/email-classifier
+2. ollama push Matheswaran/email-classifier
+3. Models pushed to https://ollama.com/Matheswaran/email-classifier
